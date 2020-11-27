@@ -6,3 +6,4 @@ atguigu 5
 make a new color
 a new b conflict
 a new aaa conflict
+edit remote
